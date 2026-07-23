@@ -124,4 +124,4 @@ int main() {
 
     return 0;
 }
-//coded using termux 
+//By Using Termux
